@@ -3,7 +3,7 @@
 [Notion Search](https://github.com/Cside/notion-search) - Notion search on the popup
 
 <a href="https://github.com/Cside/notion-search">
-  <img src="https://user-images.githubusercontent.com/315510/207743788-c0c294b4-1e55-4357-ac40-28b0cf367537.gif" width="700px" />
+  <img src="https://user-images.githubusercontent.com/315510/209901453-03629f48-d7a1-4c4f-aac0-e2b6b8705e26.gif" width="700px" />
 </a>
 
 [Notion Table of Contents (Outline)](https://github.com/Cside/notion-table-of-contents) - Show table of contents (outline) on the sidebar for Notion pages
