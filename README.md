@@ -1,6 +1,6 @@
 ## 🖐️ Hey there, I'm Cside!
 
-### [Notion Search](https://github.com/Cside/notion-search) (Chrome Extension)
+### [Notion Search](https://github.com/Cside/chrome-notion-search) (Chrome Extension)
 
 Notion search on the popup
 
@@ -8,7 +8,7 @@ Notion search on the popup
   <img src="https://user-images.githubusercontent.com/315510/209901453-03629f48-d7a1-4c4f-aac0-e2b6b8705e26.gif" width="700px" />
 </a>
 
-### [Notion Table of Contents (Outline)](https://github.com/Cside/notion-table-of-contents) (Chrome Extension)
+### [Notion Table of Contents (Outline)](https://github.com/Cside/chrome-notion-table-of-contents) (Chrome Extension)
 
 Show table of contents (outline) on the sidebar for Notion pages
 
