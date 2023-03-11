@@ -18,4 +18,14 @@ Show table of contents (outline) on the sidebar for Notion pages
 
 はてなブックマークの記事をキーワードやURLでミュート
 
+Mute Hatena Bookmark articles by keyword or URL.
+
 <a href="https://github.com/Cside/hatena-mute"><img src="https://camo.githubusercontent.com/2763683e8b3c9deea9cf04e6b50fa7351fa61d6f2646b266826dc61c07dd91fe/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f7947727675467a6c7a57755f5a477138494d51696f384c6863624c5a7738753850777a624954707368566b6c547471525f47716673723964515841735a5a71323764694f6d516567576c2d475078374a58517333314f766846773d773634302d683430302d653336352d726a2d736330783030666666666666" /></a>
+
+## [はてなブログ 未読数](https://github.com/Cside/chrome-hatena-blog-unread-count) ( Google Chrome Extension )
+
+はてなブログの購読リストの未読数を表示
+
+Display the number of unread articles in the Hatena blog subscription list
+
+<a href="https://github.com/Cside/chrome-hatena-blog-unread-count"><img src="https://user-images.githubusercontent.com/315510/220348695-0f3b8612-a5ae-414e-b884-5efafbc211ec.png" /></a>
