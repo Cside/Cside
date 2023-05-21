@@ -12,7 +12,7 @@ Notion のページを検索
 
 ## [Notion Table of Contents (Outline)](https://github.com/Cside/chrome-notion-table-of-contents) ( Google Chrome Extension )
 
-Show table of contents (outline) in the sidebar for Notion pages
+Show a table of contents (outline) in the sidebar for Notion pages
 
 Notion のページの目次をサイドバーに表示
 
