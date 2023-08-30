@@ -1,5 +1,15 @@
 # 🖐️ Hey there, I'm Cside!
 
+## [Return Amazon 5 Stars & Number of Reviews](https://github.com/Cside/return-amazon-5-stars-and-number-of-reviews) ( Google Chrome Extension / Firefox Addon )
+
+Bring back the 5 stars and number of reviews on Amazon
+
+Amazon の 5 つの星と、レビュー（評価）の件数を再び表示します
+
+<a href="https://github.com/Cside/return-amazon-5-stars-and-number-of-reviews">
+  <img src="https://user-images.githubusercontent.com/315510/262693816-9871ef8b-d7e7-4f0c-856d-7baa510f1715.png" width="400px" />
+</a>
+
 ## [Notion Search](https://github.com/Cside/chrome-notion-search) ( Google Chrome Extension )
 
 Search Notion pages on the popup
