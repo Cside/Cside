@@ -36,11 +36,6 @@ Amazon の 5 つの星と、レビュー（評価）の件数を再び表示し�
   <img src="https://user-images.githubusercontent.com/315510/262693816-9871ef8b-d7e7-4f0c-856d-7baa510f1715.png" width="400px" />
 </a>
 
-## [はてなブログ 未読数](https://github.com/Cside/chrome-hatena-blog-unread-count) ( Browser Extension )
+## And More Extensions
 
-はてなブログの購読リストの未読数を表示
-
-Display the number of unread articles in the Hatena blog subscription list
-
-<a href="https://github.com/Cside/chrome-hatena-blog-unread-count"><img src="https://user-images.githubusercontent.com/315510/220348695-0f3b8612-a5ae-414e-b884-5efafbc211ec.png" /></a>
-
+https://chrome.google.com/webstore/search/cside?hl=ja&_category=extensions
